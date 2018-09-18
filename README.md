@@ -2,6 +2,8 @@
 
 > A todo app with Vue and backed by Flask
 
+🚀 [Live Demo](https://fv-todo.herokuapp.com)
+
 ## Start frontend development server
 
 ``` bash
