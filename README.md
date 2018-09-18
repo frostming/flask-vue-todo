@@ -3,6 +3,9 @@
 > A todo app with Vue and backed by Flask
 
 🚀 [Live Demo](https://fv-todo.herokuapp.com)
+![preview](/preview.png)
+
+The demo is deployed on Heroku's free dyno and provides an interface of register/login for the use of a small group of users.
 
 ## Start frontend development server
 
